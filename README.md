@@ -1,5 +1,5 @@
 <h3 align="left"><a href="https://zhengyangqi.me">
-   <img alt="Jason Qi" src="https://readme-typing-svg.herokuapp.com/?lines=Jason+Qi;Multimodal+Computing+Wizard&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Jason Qi" src="https://readme-typing-svg.herokuapp.com/?lines=Jason+Qi;Wonderplex&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
 - 🎓 **M.S. in Intelligent Information Systems**  
